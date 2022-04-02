@@ -2,7 +2,7 @@
 
 ## Wiki
 
-* [lyes-s/ java-design-patterns/wiki](https://github.com/lyes-s/java-design-patterns/wiki)
+* [lyes-s/java-design-patterns/wiki](https://github.com/lyes-s/java-design-patterns/wiki)
 
 ## Modules
 
